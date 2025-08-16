@@ -1,0 +1,10 @@
+Hello, I am redoing python to study
+GenAI. I am not an AI.
+This is a new line added to the file.
+This is a new line added to the file.
+This is a new line added to the file.
+This is a new line added to the file.
+This is a new line added to the file.Line 1Line 2Line 3
+This is a new line added to the file.Line 1
+Line 2
+Line 3

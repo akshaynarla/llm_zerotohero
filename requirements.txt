@@ -1,0 +1,11 @@
+# For custom packages, you need to use __init__.py files to make them packages. Then define your 
+# functions in other files of the this folder. Then you can import them using the package name.
+# For example, if you have a file named my_functions.py in the same folder, you can import it like this:
+# from my_functions import my_function
+# For third-party packages, you can install them using pip and import them directly.
+ipykernel
+pandas
+openpyxl
+numpy
+pywin32
+
