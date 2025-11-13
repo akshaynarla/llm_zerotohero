@@ -8,4 +8,5 @@ pandas
 openpyxl
 numpy
 pywin32
-
+streamlit
+matplotlib
